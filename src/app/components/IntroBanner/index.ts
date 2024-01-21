@@ -1,0 +1,1 @@
+export { IntroBanner } from './IntroBanner';
