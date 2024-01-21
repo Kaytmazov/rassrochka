@@ -6,7 +6,7 @@ export function CalcSection() {
   return (
     <section
       id="calc-section"
-      className="relative bg-blue-600 bg-[url('/calc-background.jpg')] bg-contain bg-center bg-no-repeat py-12 text-white sm:py-36"
+      className="bg-calcBg relative bg-blue-600 bg-contain bg-center bg-no-repeat py-12 text-white sm:py-36"
     >
       <div className="container md:px-8">
         <div className="mb-8 max-w-2xl sm:mx-auto sm:mb-14 md:mb-20 md:text-center xl:max-w-none">

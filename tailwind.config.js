@@ -48,6 +48,9 @@ module.exports = {
           foreground: 'hsl(var(--card-foreground))',
         },
       },
+      backgroundImage: {
+        calcBg: 'url("/calc-background.jpg")',
+      },
       borderRadius: {
         lg: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
